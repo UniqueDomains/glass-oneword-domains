@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .glass one-word domains from Uniqu
 
 **Public extract:** 9,446 rows · **Live catalog:** 9,446 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/glass`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | live.glass      | resell    | —         | —             | 108            | 56     | 4      | Porkbun LLC      |
 | hotel.glass     | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap        |
 | forge.glass     | available | $77.99    | $83.99        | 62             | 45     | 5      | name.com         |
-| limitless.glass | resell    | —         | —             | 76             | 56     | 9      | Porkbun LLC      |
+| data.glass      | resell    | —         | —             | 70             | 56     | 4      | IONOS SE         |
 | food.glass      | premium   | $26       | $26           | 94             | 44     | 4      | namecheap        |
 | event.glass     | available | $99.98    | —             | 96             | 44     | 5      | namecheap        |
-| data.glass      | resell    | —         | —             | 70             | 56     | 4      | IONOS SE         |
+| limitless.glass | resell    | —         | —             | 76             | 55     | 9      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLASS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLASS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
