@@ -66,7 +66,7 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | silver.glass    | available | $99.98    | —             | 56             | 99     | 6      | namecheap        |
 | broken.glass    | resell    | —         | —             | 64             | 98     | 6      | Dynadot Inc      |
-| free.glass      | premium   | $500      | $500          | 88             | 59     | 4      | name.com         |
+| free.glass      | premium   | $500      | $500          | 88             | 57     | 4      | name.com         |
 | hub.glass       | available | $77.99    | —             | 72             | 48     | 3      | name.com         |
 | boss.glass      | resell    | —         | —             | 76             | 73     | 4      | Porkbun LLC      |
 | security.glass  | premium   | $520      | $520          | 70             | 49     | 8      | namecheap        |
@@ -75,14 +75,14 @@ print(df.head())
 | travel.glass    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
 | genius.glass    | available | $77.99    | $83.99        | 98             | 45     | 6      | name.com         |
 | dot.glass       | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.  |
-| green.glass     | premium   | $85.80    | $85.80        | 108            | 45     | 5      | namecheap        |
+| hotel.glass     | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap        |
 | creator.glass   | available | $77.99    | $83.99        | 70             | 45     | 7      | name.com         |
 | live.glass      | resell    | —         | —             | 108            | 56     | 4      | Porkbun LLC      |
-| hotel.glass     | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap        |
-| forge.glass     | available | $77.99    | $83.99        | 62             | 45     | 5      | name.com         |
+| green.glass     | premium   | $85.80    | $85.80        | 108            | 44     | 5      | namecheap        |
+| event.glass     | available | $99.98    | —             | 96             | 44     | 5      | namecheap        |
 | data.glass      | resell    | —         | —             | 70             | 56     | 4      | IONOS SE         |
 | food.glass      | premium   | $26       | $26           | 94             | 44     | 4      | namecheap        |
-| event.glass     | available | $99.98    | —             | 96             | 44     | 5      | namecheap        |
+| forge.glass     | available | $77.99    | $83.99        | 62             | 44     | 5      | name.com         |
 | limitless.glass | resell    | —         | —             | 76             | 55     | 9      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
