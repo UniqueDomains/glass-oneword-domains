@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .glass one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,406 domains · **Median ask:** $81.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/glass`  
 **Best for:** founders, investors, studios
 
@@ -69,10 +69,10 @@ print(df.head())
 | finals.glass    | available | $72.99    | $72.99        | 80             | 7      | 6      | namesilo  |
 | jewels.glass    | available | $77.99    | —             | 80             | 15     | 6      | name.com  |
 | geton.glass     | available | $77.99    | —             | 82             | 10     | 6      | name.com  |
-| getup.glass     | available | $77.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.glass     | available | $77.99    | —             | 82             | 15     | 6      | name.com  |
 | toneup.glass    | available | $77.99    | —             | 80             | 5      | 7      | name.com  |
 | hangon.glass    | available | $77.99    | —             | 82             | 6      | 7      | name.com  |
-| makeit.glass    | available | $77.99    | —             | 82             | 22     | 7      | name.com  |
+| makeit.glass    | available | $77.99    | —             | 82             | 21     | 7      | name.com  |
 | pierogi.glass   | available | $77.99    | —             | 82             | 7      | 7      | name.com  |
 | messages.glass  | available | $72.99    | $72.99        | 80             | 16     | 8      | namesilo  |
 | robots.glass    | available | $72.99    | $72.99        | 62             | 47     | 6      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLASS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLASS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
