@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .glass one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,406 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,406 domains · **Median ask:** $81.84 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,406 domains · **Median ask:** $78.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/glass`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/glass`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GLASS one-word domain
 
 ### Files
 
-- `glass.csv` — public CSV extract (1,000 rows)
-- `glass.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `glass.csv`, public CSV extract (1,000 rows)
+- `glass.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.glass      | available | $99.98    | —             | 80             | 24     | 5      | namecheap |
-| WiFi.glass      | available | $99.98    | —             | 83             | 37     | 5      | namecheap |
-| finals.glass    | available | $72.99    | $72.99        | 80             | 7      | 6      | namesilo  |
-| jewels.glass    | available | $77.99    | —             | 80             | 15     | 6      | name.com  |
-| geton.glass     | available | $77.99    | —             | 82             | 10     | 6      | name.com  |
-| getup.glass     | available | $77.99    | —             | 82             | 15     | 6      | name.com  |
-| toneup.glass    | available | $77.99    | —             | 80             | 5      | 7      | name.com  |
-| hangon.glass    | available | $77.99    | —             | 82             | 6      | 7      | name.com  |
-| makeit.glass    | available | $77.99    | —             | 82             | 21     | 7      | name.com  |
-| pierogi.glass   | available | $77.99    | —             | 82             | 7      | 7      | name.com  |
-| messages.glass  | available | $72.99    | $72.99        | 80             | 16     | 8      | namesilo  |
-| robots.glass    | available | $72.99    | $72.99        | 62             | 47     | 6      | namesilo  |
-| jobs.glass      | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| shortcuts.glass | available | $77.99    | —             | 48             | 41     | 10     | name.com  |
-| homes.glass     | premium   | $123.75   | —             | 86             | 34     | 5      | name.com  |
-| lets.glass      | available | $77.99    | —             | 77             | 39     | 4      | name.com  |
-| tickets.glass   | premium   | $500      | —             | 64             | 34     | 7      | name.com  |
-| tips.glass      | premium   | $500      | —             | 80             | 26     | 4      | name.com  |
-| stories.glass   | available | $77.99    | —             | 58             | 36     | 7      | name.com  |
-| loans.glass     | premium   | $500      | —             | 58             | 24     | 5      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| act.glass          | available | $72.99    | $72.99        | high           | low    | 3      | namesilo         |
+| dot.glass          | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| bar.glass          | premium   | $500      | —             | high           | low    | 3      | name.com         |
+| ale.glass          | available | $72.99    | $72.99        | medium         | low    | 3      | namesilo         |
+| face.glass         | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| able.glass         | premium   | $500      | $500          | high           | low    | 4      | name.com         |
+| boo.glass          | available | $77.99    | —             | high           | low    | 3      | name.com         |
+| floor.glass        | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| asia.glass         | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| boy.glass          | available | $77.99    | —             | medium         | low    | 3      | name.com         |
+| custom.glass       | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.  |
+| fail.glass         | premium   | $500      | —             | medium         | low    | 4      | name.com         |
+| cod.glass          | available | $72.99    | $72.99        | high           | low    | 3      | namesilo         |
+| intelligence.glass | resell    | —         | —             | high           | low    | 12     | Porkbun LLC      |
+| sale.glass         | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| coy.glass          | available | $77.99    | $83.99        | medium         | low    | 3      | name.com         |
+| sexy.glass         | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| die.glass          | available | $77.99    | —             | medium         | low    | 3      | name.com         |
+| tech.glass         | premium   | $82.50    | —             | high           | medium | 4      | name.com         |
+| dvd.glass          | available | $72.99    | $72.99        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .glass domains, which makes it narrower and more theme-specific than mainstream extensions. The set includes generic words, broad consumer terms, and some names that may echo existing brands or products, such as WiFi.glass or Trex.glass. For founders, the main question is whether the word is memorable, easy to explain, and credible on a niche extension. For investors, the key test is whether the word has clear category relevance and enough buyer fit to justify the ask. With a median ask of 81.84, price discipline matters less than name quality, clarity, and trademark risk.
+This list of one-word .glass domains features single-word and compact phrase names such as dogsit.glass, bedframe.glass, and coffeeberry.glass. Most listings carry a median ask near $79, making the .glass extension an affordable option for brandable, memorable names. Because .glass is a newer, non-mainstream TLD, renewal costs and long-term demand should be checked before committing to a name.
 
-- All domains in this set use the .glass extension
-- 12,406 one-word domains are included
-- Median ask across the selection is 81.84
-- Check brand fit, clarity, and trademark exposure
+- 12,406 one-word .glass domains available, updated daily
+- Median ask near $79 across this selection
+- Compact, brandable names like bedframe.glass and dogsit.glass
+- Non-mainstream TLD — verify renewal cost before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GLASS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GLASS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
