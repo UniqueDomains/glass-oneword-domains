@@ -10,6 +10,7 @@ ac689cc6-3bb7-405e-8caa-b2e9282ef51e,puppies.glass,available,72.99,72.99,low,low
 337a65e7-ed5c-421c-a831-ec7b12e697db,cupcake.glass,available,76.98,99.98,high,low,7,namecheap,,,24/09/2026 20:16
 71e0b265-e33d-46c4-a9a2-fa84d55fdef2,closing.glass,available,72.99,72.99,high,low,7,namesilo,,,08/09/2026 06:59
 dbe7ebd2-ea98-4e21-a4e5-0e4864d4d655,sesotho.glass,available,72.99,72.99,medium,low,7,namesilo,,,22/09/2026 13:00
+f9ff9d89-ecd1-4e1e-ae90-ed676dedf5bc,maracaibo.glass,available,56.2,56.2,medium,low,9,cloudflare,,,02/10/2026 05:43
 79b9a202-f7ef-4dcd-b4ff-c99af2de74f6,moody.glass,available,72.99,72.99,high,low,5,namesilo,,,20/08/2026 14:59
 dc581067-0919-41c9-9ed4-d90036ba4b62,deific.glass,available,72.99,72.99,medium,low,6,namesilo,,,14/08/2026 00:13
 263a6cc1-267c-4a18-a5eb-fb5fc97f5d62,consumers.glass,available,58.16,58.16,medium,low,9,spaceship,,,29/09/2026 02:36
@@ -21,6 +22,7 @@ b0149646-3868-483f-89a6-d3325dceef0d,committees.glass,available,72.99,72.99,medi
 21a2f62c-45cc-4ae6-af98-217aaa3a6736,unflagging.glass,available,72.99,72.99,high,low,10,namesilo,,,22/08/2026 02:31
 94346ae1-afe9-45c5-9c62-b1e64e172bfc,inhabited.glass,available,72.99,72.99,high,low,9,namesilo,,,22/08/2026 04:59
 a11af52c-dbae-4853-b58e-0e8a5f1a1d57,framingham.glass,available,58.19,58.19,medium,low,10,porkbun,,,30/09/2026 05:41
+9791cb2e-16af-41b1-9354-110f23ef00cf,dumpster.glass,available,72.99,72.99,high,low,8,namesilo,,,02/10/2026 14:53
 09553471-fd2f-4fdb-9b22-e84367906ae6,ncaa.glass,available,72.99,72.99,high,low,4,namesilo,,,27/09/2026 07:11
 4c234b4f-b798-4a83-a006-cc1607eb610a,apparition.glass,available,76.98,99.98,high,low,10,namecheap,,,08/09/2026 18:34
 c2349042-2d9f-47c0-87bb-58b3af29f3d9,medal.glass,available,58.16,58.16,high,low,5,spaceship,,,30/09/2026 02:12
@@ -53,6 +55,7 @@ b41efc66-f58b-4d35-bd7b-e25988c66fe1,seniority.glass,available,58.16,58.16,high,
 f975c4c2-ba51-4ab2-ac35-3a32658985ca,avidity.glass,available,72.99,72.99,high,low,7,namesilo,,,21/09/2026 09:28
 fdd9b908-8633-4432-b5b4-4e2f0abc5224,umi.glass,available,56.2,56.2,medium,low,3,cloudflare,,,01/10/2026 17:12
 88b3e9fb-ffee-4632-ad26-d07e96515439,saturn.glass,available,58.19,58.19,high,low,6,porkbun,,,29/09/2026 13:55
+7e8bf4a0-b1ce-4b3f-b685-0906d906d570,apprehensive.glass,available,72.99,72.99,medium,low,12,namesilo,,,02/10/2026 06:57
 364b39e2-ea7a-48b3-8da7-04bfda6af57a,ammunition.glass,available,72.99,72.99,high,low,10,namesilo,,,18/09/2026 22:05
 669e2d57-b2ca-4813-a5f0-5dd6878684de,applique.glass,available,76.98,99.98,medium,low,8,namecheap,,,19/09/2026 21:57
 6257a9db-31a1-4c51-933b-8b2f346e1cf3,stash.glass,available,72.99,72.99,high,low,5,namesilo,,,30/09/2026 08:53
@@ -73,14 +76,17 @@ f863b286-ea09-4066-8962-5cc7622fd24c,evaluate.glass,available,58.16,58.16,high,l
 57a4a8a1-9ba1-403a-b6ed-d3665f429c24,souvenir.glass,available,72.99,72.99,high,low,8,namesilo,,,29/09/2026 07:24
 22fb9d01-5975-4660-8b05-c1c7b1564808,blogs.glass,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 05:52
 0deb62bf-a24a-4fc9-8ecd-dfd2797001c6,hooper.glass,available,58.16,58.16,medium,low,6,spaceship,,,29/09/2026 02:55
+269ccd6d-6f3b-41bc-bead-d4ad709fe0ea,tolls.glass,available,58.16,58.16,medium,low,5,spaceship,,,02/10/2026 14:23
+f1589a62-fe11-4433-8fbf-24991fe0e2d4,chewed.glass,available,58.16,58.16,medium,low,6,spaceship,,,02/10/2026 18:01
 0a6b8dd6-5f4b-4e18-b0e2-dabc61effe6b,antwerpen.glass,available,72.99,72.99,medium,low,9,namesilo,,,19/09/2026 15:48
 6a16fc11-a3ca-4c56-9c27-acb305fce71d,adulterous.glass,available,72.99,72.99,medium,low,10,namesilo,,,
+4bb6522f-2ae1-4271-bb84-5c5394ee7412,bsp.glass,available,58.19,58.19,high,low,3,porkbun,,,02/10/2026 18:23
 3f16da2c-20da-48c1-805d-d30c77a486c2,yonder.glass,available,72.99,72.99,high,low,6,namesilo,,,13/09/2026 14:45
 9c4040f7-309a-48c4-93ba-321d5b9430fe,statue.glass,available,72.99,72.99,high,low,6,namesilo,,,26/09/2026 00:24
 7f6289b6-a764-4b1b-98a4-2ef97ad23d6d,providing.glass,available,56.2,56.2,high,low,9,cloudflare,,,28/09/2026 07:19
-cebce943-fde1-44e9-9470-ccbaffadb767,analyst.glass,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 07:53
+cebce943-fde1-44e9-9470-ccbaffadb767,analyst.glass,available,58.16,58.16,high,low,7,spaceship,,,02/10/2026 11:14
 c043e6ec-1160-4b04-9bca-2bc76a72c500,miserable.glass,available,72.99,72.99,high,low,9,namesilo,,,
-7079717a-1b85-4a55-b862-f3c9a21454f3,coming.glass,available,72.99,72.99,high,low,6,namesilo,,,23/09/2026 15:31
+7079717a-1b85-4a55-b862-f3c9a21454f3,coming.glass,available,60.14,60.14,high,low,6,dynadot,,,03/10/2026 02:33
 17b50dc0-0d1e-499d-b0e6-f6b32a7a2e60,breslau.glass,available,58.16,58.16,medium,low,7,spaceship,,,28/09/2026 18:29
 056f3d8b-2fd8-45d4-b44e-cd4b8e1f22b9,abilene.glass,available,76.98,99.98,high,low,7,namecheap,,,16/09/2026 15:54
 d86b3e66-00ca-40cf-944b-2a5c890b266a,refractive.glass,available,72.99,72.99,medium,low,10,namesilo,,,13/08/2026 23:32
@@ -97,11 +103,13 @@ f55e4f7b-0f4c-4693-9234-7681bab705ce,curtiss.glass,available,72.99,72.99,high,lo
 1f83f883-4538-433c-a64b-2745aa5e3520,allowance.glass,available,58.16,58.16,high,low,9,spaceship,,,28/09/2026 20:37
 0cd3c8ef-2236-4385-891b-39c192cfc1f9,sba.glass,available,58.16,58.16,high,low,3,spaceship,,,30/09/2026 11:00
 2920cec7-626e-4cc7-8fb1-1c0bb92cbb2d,moriarty.glass,available,56.2,56.2,medium,low,8,cloudflare,,,30/09/2026 13:37
+c3d6d944-a091-459f-9a5e-4a0369188122,takeshi.glass,available,58.16,58.16,medium,low,7,spaceship,,,02/10/2026 20:09
 1cb42e35-80ea-4c3f-a1eb-bf8d8cff04c0,dunstan.glass,available,72.99,72.99,medium,low,7,namesilo,,,02/10/2026 00:24
 2643ffbe-da63-475d-8ee5-e0e696005379,bicycler.glass,available,72.99,72.99,medium,low,8,namesilo,,,23/09/2026 13:23
 4bfba045-95a2-4c69-a85f-4de2cfee8fc7,halt.glass,available,76.98,99.98,high,low,4,namecheap,,,24/09/2026 01:49
 56154c3b-bf07-4015-9c42-45f3d1b9d8e3,invested.glass,available,72.99,72.99,medium,low,8,namesilo,,,28/09/2026 13:01
 47afb93b-6cdb-45dc-a48a-d72321fe39e7,limestone.glass,available,56.2,56.2,high,low,9,cloudflare,,,30/09/2026 02:56
+132170dd-2c66-4760-b6aa-abea6876abde,cecily.glass,available,60.14,60.14,medium,low,6,dynadot,,,02/10/2026 19:48
 1601fecf-4e71-486a-8861-89e86f7a33fd,wagering.glass,available,56.2,56.2,high,low,8,cloudflare,,,01/10/2026 19:03
 54d0b20a-23ab-4ce6-b6f5-36a5be78678f,shared.glass,available,76.98,99.98,high,low,6,namecheap,,,24/09/2026 11:33
 804763e4-cac2-401e-bc1c-e57b3ed87aed,cameras.glass,available,76.98,99.98,high,low,7,namecheap,,,25/09/2026 20:54
@@ -137,9 +145,11 @@ c4c24654-70a0-490b-8b2d-3f3576018974,creed.glass,available,58.16,58.16,high,low,
 050bcc02-bd5a-4b47-a4f4-1881a04efe3e,compilers.glass,available,72.99,72.99,medium,low,9,namesilo,,,
 ed868449-caaa-4eef-b42e-b5cc520653d6,jews.glass,available,72.99,72.99,medium,low,4,namesilo,,,
 44db64ff-07b3-4ec0-9508-a377a30ddd11,considerate.glass,available,58.16,58.16,high,low,11,spaceship,,,01/10/2026 04:44
+234aaaa9-86f4-41ae-a00c-9902c69eb581,gow.glass,available,58.16,58.16,medium,low,3,spaceship,,,02/10/2026 18:51
 98f328a3-baf6-4fc2-8a93-0313663398ac,enumerate.glass,available,72.99,72.99,medium,low,9,namesilo,,,03/09/2026 22:58
 97165e2e-4a7a-457a-953f-da06eeaaa00f,spangly.glass,available,76.98,99.98,medium,low,7,namecheap,,,18/08/2026 21:20
 0edc54f4-6990-4986-b423-7fb47b25edda,housekeeping.glass,available,58.16,58.16,high,low,12,spaceship,,,29/09/2026 10:23
+2b1fa727-831c-4cc3-bb70-5af28d9e4449,expenditure.glass,available,72.99,72.99,high,low,11,namesilo,,,02/10/2026 11:07
 46482608-6684-4f4a-937f-796c523bc64f,sonsy.glass,available,72.99,72.99,medium,low,5,namesilo,,,10/08/2026 20:35
 07fab106-e3bf-4fa2-815b-44a0d4a5ff14,boringly.glass,available,72.99,72.99,medium,low,8,namesilo,,,14/09/2026 01:08
 d2e60868-1c04-4427-bc0e-2114c29f8e55,titanium.glass,resell,,,high,low,8,"Spaceship, Inc.",20/02/2020 16:11,20/02/2027 16:11,26/09/2026 09:39
@@ -151,7 +161,7 @@ d2e60868-1c04-4427-bc0e-2114c29f8e55,titanium.glass,resell,,,high,low,8,"Spacesh
 b3776320-1e10-40e7-83bb-e12f7339d959,walpole.glass,available,72.99,72.99,medium,low,7,namesilo,,,28/09/2026 01:54
 0d588f7a-1bc6-4e6a-970a-bf561a2c4c18,stingy.glass,available,76.98,99.98,medium,low,6,namecheap,,,24/08/2026 18:08
 935d0260-85b4-451d-b0df-26f5b5b3592a,bearded.glass,available,72.99,72.99,high,low,7,namesilo,,,08/08/2026 16:05
-c36af3dc-9b68-4997-a8b0-bae66e68a15c,mothafucka.glass,available,72.99,72.99,medium,low,10,namesilo,,,
+c36af3dc-9b68-4997-a8b0-bae66e68a15c,mothafucka.glass,available,72.99,72.99,medium,low,10,namesilo,,,02/10/2026 05:19
 d305de5b-26af-46f8-a98d-1855e206558d,crownless.glass,available,72.99,72.99,medium,low,9,namesilo,,,13/08/2026 08:38
 606d7b47-6642-4404-b31c-59ce3f1f7a52,prophecy.glass,available,58.16,58.16,high,low,8,spaceship,,,28/09/2026 10:47
 3d69f900-3f05-4411-91d4-3ca17a6276a8,reinforced.glass,available,72.99,72.99,high,low,10,namesilo,,,23/09/2026 10:25
@@ -162,7 +172,7 @@ d5bac645-999d-467a-a8b5-6bb8993d75e6,aril.glass,available,72.99,72.99,medium,low
 72cb5fcf-5aaa-4645-9e0c-a0a55a853aa2,adenoid.glass,available,72.99,72.99,medium,low,7,namesilo,,,
 8959da7f-f21e-4ba3-86f7-6753d683b600,presents.glass,available,72.99,72.99,high,low,8,namesilo,,,08/09/2026 04:30
 cafb2103-c5ba-4dba-a7e2-07afadb4bec9,julia.glass,available,76.98,99.98,high,low,5,namecheap,,,25/09/2026 19:23
-bff9218c-aba4-473b-af7b-698de79a0a15,turnout.glass,available,72.99,72.99,high,low,8,namesilo,,,29/09/2026 07:04
+bff9218c-aba4-473b-af7b-698de79a0a15,turnout.glass,available,72.99,72.99,high,low,8,namesilo,,,03/10/2026 01:28
 af0e47a9-3dd7-4c1f-9286-77e461ddda5f,ore.glass,available,72.99,72.99,high,low,3,namesilo,,,30/09/2026 02:25
 ad5979cd-4dbc-4133-b3f0-4f4633be83c5,alger.glass,available,72.99,72.99,medium,low,5,namesilo,,,18/09/2026 06:56
 920265ba-010e-4142-af70-7f6609588aa8,retainer.glass,available,58.16,58.16,high,low,8,spaceship,,,30/09/2026 02:42
@@ -175,6 +185,7 @@ ad5979cd-4dbc-4133-b3f0-4f4633be83c5,alger.glass,available,72.99,72.99,medium,lo
 821a1953-b569-4c73-9c25-70046bb2d82b,rousseau.glass,available,58.16,58.16,high,low,8,spaceship,,,01/10/2026 02:29
 54e3ac2e-5c50-410b-92b7-d5883647852c,brake.glass,available,72.99,72.99,medium,low,5,namesilo,,,24/09/2026 08:06
 8a7c3e30-e210-455d-94e7-b6fea28514ab,styles.glass,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 22:23
+29f64084-fce4-4066-bbb7-241c96ef48b9,freehold.glass,available,72.99,72.99,medium,low,8,namesilo,,,02/10/2026 15:19
 98aba175-d9dc-4926-a673-f1b42e48fe88,mohammedan.glass,available,72.99,72.99,medium,low,10,namesilo,,,25/08/2026 03:23
 82ded610-7967-4d74-8740-5cae13e416a4,cloudless.glass,available,72.99,72.99,high,low,9,namesilo,,,12/08/2026 12:32
 abfc35db-5322-400b-b69c-5382039211d7,clermont.glass,available,58.19,58.19,medium,low,8,porkbun,,,28/09/2026 22:20
@@ -183,6 +194,7 @@ abfc35db-5322-400b-b69c-5382039211d7,clermont.glass,available,58.19,58.19,medium
 0381b459-259d-48a0-a5f8-9ee5ebe663fc,perot.glass,available,58.16,58.16,medium,low,5,spaceship,,,01/10/2026 15:27
 9581ff66-e059-46d1-a080-b2c6de98db2e,prefer.glass,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 03:54
 495b2546-e53b-4446-8dc7-acc60e90068f,badge.glass,available,72.99,72.99,high,low,5,namesilo,,,19/09/2026 15:56
+bf90221a-bc96-4a0e-8366-1df696b2b9c7,ihs.glass,available,56.2,56.2,medium,low,3,cloudflare,,,02/10/2026 08:28
 66f44d62-3108-4546-8ba3-f86e5b8aa5cb,designed.glass,premium,118.8,118.8,high,low,8,namesilo,,,24/09/2026 06:34
 7b2ea13e-009f-4362-82d6-2185db676567,give.glass,available,76.98,99.98,high,low,4,namecheap,,,29/09/2026 07:45
 2aee2402-466d-4bad-b8c6-8ac641e827a2,enmity.glass,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 12:26
@@ -236,6 +248,7 @@ b5cf6e5a-f527-404d-b03d-3e02a4aa2f4a,musing.glass,available,72.99,72.99,high,low
 1a4c6d8c-52db-4686-9296-4a98aa835ae8,coppola.glass,available,72.99,72.99,medium,low,7,namesilo,,,30/09/2026 16:47
 e4592fdd-effa-4169-8f76-eb0a7f084967,gunther.glass,available,56.2,56.2,medium,low,7,cloudflare,,,29/09/2026 15:16
 037e7d5d-362e-4631-b5fd-535a1069a8af,ottar.glass,available,76.98,99.98,medium,low,5,namecheap,,,20/09/2026 19:29
+4b15f673-6340-41b4-ab6d-dec2adebbc43,castleton.glass,available,58.19,58.19,medium,low,9,porkbun,,,02/10/2026 20:54
 ec61733e-7da0-44d5-ab45-01c98016556b,hadean.glass,available,76.98,99.98,medium,low,6,namecheap,,,20/08/2026 21:32
 1eee0f3a-3db2-4edf-9900-7d4bdce6735a,ideational.glass,available,76.98,99.98,medium,low,10,namecheap,,,12/08/2026 19:59
 9df965c4-086d-4233-b737-54a5ffd7e9c6,balky.glass,available,72.99,72.99,medium,low,5,namesilo,,,08/08/2026 09:55
@@ -261,6 +274,7 @@ deb7aa6a-9c2c-4a44-b580-1bdc05d161ed,snapped.glass,available,72.99,72.99,medium,
 98c552c7-a72e-41f6-bc8e-839287e49ad0,thready.glass,available,72.99,72.99,medium,low,7,namesilo,,,18/08/2026 04:08
 71aafb6d-22ec-44b8-b47d-d2e8da1d960f,complacent.glass,available,76.98,99.98,medium,low,10,namecheap,,,12/08/2026 19:25
 b8673327-4e32-4cb8-a948-92ef644f7c1d,comforted.glass,available,72.99,72.99,high,low,9,namesilo,,,23/09/2026 15:14
+8e07266c-7ee7-4544-993b-d12d0a3fadf1,transylvanian.glass,available,56.2,56.2,medium,low,13,cloudflare,,,03/10/2026 02:37
 ef016e43-b442-4ed1-9c5e-6eff44f4703b,negotiate.glass,available,58.16,58.16,high,low,9,spaceship,,,30/09/2026 20:35
 a3184b48-f005-4225-b94d-896ff2cb4939,pluton.glass,available,72.99,72.99,medium,low,6,namesilo,,,22/09/2026 13:46
 8d8635b3-9e02-4e31-a944-bfeaf8435d4a,bellis.glass,available,72.99,72.99,high,low,6,namesilo,,,23/09/2026 06:15
@@ -276,6 +290,7 @@ aafc3fb6-9aa5-4d9a-bc90-661364059282,arrhythmia.glass,available,72.99,72.99,medi
 cc5b1852-ed9f-4644-9c43-78c42c49b0df,erotic.glass,available,72.99,72.99,high,low,6,namesilo,,,17/08/2026 12:42
 c47a6ddd-5554-4315-a0fa-98ef9e7fe855,deaf.glass,available,77.99,83.99,high,low,4,name.com,,,13/08/2026 19:42
 0f9c34d9-0e4a-4a2f-8f32-73e970cdbf2a,ethical.glass,available,72.99,72.99,high,low,7,namesilo,,,19/09/2026 14:49
+5f7e282d-39ff-446e-b94b-f716f4114d02,luang.glass,available,58.16,58.16,medium,low,5,spaceship,,,02/10/2026 21:01
 a2d13f56-91ad-490f-b47e-c845b7ac9b96,assembler.glass,available,72.99,72.99,high,low,9,namesilo,,,20/09/2026 16:01
 f1c0dff4-f91e-4ce5-a305-6c7be6acc2ab,chevron.glass,available,72.99,72.99,high,low,7,namesilo,,,24/09/2026 14:21
 9767997a-7284-4b61-b2d6-cd2465a1eaf3,mutilated.glass,available,72.99,72.99,medium,low,9,namesilo,,,24/08/2026 13:22
@@ -290,6 +305,7 @@ dec03608-1d7e-4b43-be20-d12a7d76d0b5,typewriters.glass,available,72.99,72.99,med
 120f01ba-5d12-4fdd-8542-64638dcf0628,celery.glass,available,72.99,72.99,high,low,6,namesilo,,,19/09/2026 17:33
 0efc36dc-01d7-476e-bea7-90b5f44baaf3,unhealed.glass,available,72.99,72.99,medium,low,8,namesilo,,,12/09/2026 12:08
 2a58db9d-5595-44bf-976b-98c9d7c83bd2,envoy.glass,available,56.2,56.2,high,low,5,cloudflare,,,01/10/2026 19:25
+107084fc-5b8e-4047-bb5e-3378c569d7eb,ascended.glass,available,58.16,58.16,medium,low,8,spaceship,,,02/10/2026 12:33
 4580420c-5495-4089-a48e-403d82a84dcc,becomingly.glass,available,72.99,72.99,medium,low,10,namesilo,,,13/09/2026 23:45
 9b1e49d1-74df-4321-9eef-0320199c37fa,ulysses.glass,available,56.2,56.2,high,low,7,cloudflare,,,30/09/2026 11:15
 4aa6b612-6d6d-4b74-a76f-012c20b586e2,socialised.glass,available,72.99,72.99,medium,low,10,namesilo,,,10/09/2026 13:14
@@ -324,6 +340,7 @@ c466e5cf-d662-467e-b4a8-5c3a67302530,pals.glass,available,72.99,72.99,high,low,4
 4ef664b0-17b2-44a4-b0e7-370d8253bddb,aural.glass,available,76.98,99.98,high,low,5,namecheap,,,22/09/2026 12:49
 e102b7b6-fe83-4faf-b1ca-bd9f6c57674b,favorably.glass,available,76.98,99.98,high,low,9,namecheap,,,14/09/2026 18:00
 b31768cd-5303-457a-8ee4-2f46193928ae,berkelium.glass,available,72.99,72.99,medium,low,9,namesilo,,,21/09/2026 00:14
+3891372c-d843-467e-8a4d-dfaba71b2500,pwr.glass,available,58.16,58.16,high,low,3,spaceship,,,03/10/2026 01:49
 6cbf196e-24df-46f5-875d-543f014560a0,prompting.glass,available,72.99,72.99,high,low,9,namesilo,,,27/09/2026 07:31
 7a4636f6-c14a-4acc-ba5f-3fe88e54bf05,incorrect.glass,available,72.99,72.99,high,low,9,namesilo,,,25/09/2026 08:08
 2aba6c48-a2bb-4a77-b05e-559c7951b57d,segovia.glass,available,72.99,72.99,medium,low,7,namesilo,,,19/09/2026 04:41
@@ -376,6 +393,7 @@ cd6cbe46-bfbd-4ec6-bdf7-d7718c516a11,regiment.glass,available,60.14,60.14,medium
 65620905-21b3-4201-8d62-2eeae6968675,extremity.glass,available,76.98,99.98,medium,low,9,namecheap,,,19/09/2026 20:32
 3db418f1-d219-43e4-bf2d-fa142146c059,mile.glass,available,58.16,58.16,high,low,4,spaceship,,,28/09/2026 18:43
 fdd97384-d039-4ee6-83bd-7b71606e8d68,aubergine.glass,available,72.99,72.99,high,low,9,namesilo,,,21/09/2026 02:33
+682da058-ef9d-4137-8b38-1c8302d9f6c8,zamboanga.glass,available,72.99,72.99,medium,low,9,namesilo,,,02/10/2026 09:38
 065b501a-1fd5-4673-9e86-3eacd8ba5769,romantic.glass,available,76.98,99.98,high,low,8,namecheap,,,22/09/2026 03:28
 7b52f20d-144e-4513-9dfe-57ff31b5d0ca,agrimony.glass,available,76.98,99.98,medium,low,8,namecheap,,,17/09/2026 19:30
 c3b03ec3-5cb6-419f-9403-9c3bd85c8480,jagged.glass,available,72.99,72.99,medium,low,6,namesilo,,,17/08/2026 12:32
@@ -389,7 +407,7 @@ dfe15dc2-4cc2-4e2e-9bb1-a84d28ff47b1,duty.glass,available,72.99,72.99,high,low,4
 c680279e-3899-4959-a319-b86f0354e893,climax.glass,available,76.98,99.98,high,low,6,namecheap,,,24/09/2026 15:38
 475f465c-ca64-42bc-8317-b004f0549652,apian.glass,available,72.99,72.99,medium,low,5,namesilo,,,05/08/2026 23:47
 27d35e14-5477-4c7c-a1f2-3fc8c260834d,modifications.glass,available,72.99,72.99,medium,low,13,namesilo,,,30/09/2026 23:18
-6a469aed-1f5c-4f27-a203-7cae2c343bd2,purpose.glass,available,72.99,72.99,high,low,7,namesilo,,,25/09/2026 09:59
+6a469aed-1f5c-4f27-a203-7cae2c343bd2,purpose.glass,available,72.99,72.99,high,low,7,namesilo,,,02/10/2026 10:04
 d316b7a5-ecce-4611-8b17-773eee6c4503,tipperary.glass,available,72.99,72.99,medium,low,9,namesilo,,,29/09/2026 09:36
 5e769e02-54ae-445d-a92d-9d884633eefd,handwoven.glass,available,72.99,72.99,medium,low,9,namesilo,,,20/08/2026 23:19
 9b4168b6-37ef-478f-b5a2-24d7f51f913f,lyric.glass,available,72.99,72.99,high,low,5,namesilo,,,25/09/2026 15:47
@@ -408,6 +426,7 @@ b1ca3714-da79-4bf2-b539-7b5ff2f47d5f,stays.glass,available,76.98,99.98,high,low,
 07ea2f42-221a-4f40-9d33-6ae6a9fff23f,powhatan.glass,available,58.16,58.16,high,low,8,spaceship,,,01/10/2026 03:20
 e0f73984-abf0-449a-96c6-ab85f49d0b2e,magnetised.glass,available,72.99,72.99,medium,low,10,namesilo,,,24/08/2026 13:06
 4748b70f-f31b-4651-81ab-c5d9deb998c7,bounden.glass,available,72.99,72.99,medium,low,7,namesilo,,,10/08/2026 21:56
+349a65ad-d9a9-41c5-be80-60bd423d2a7a,longus.glass,available,58.16,58.16,medium,low,6,spaceship,,,02/10/2026 22:17
 44c8aa12-6aa3-4bd7-bf0c-6e713854830e,beadwork.glass,available,76.98,99.98,high,low,8,namecheap,,,22/09/2026 19:29
 4da8ae8f-7f95-492a-8466-1ce866ddf241,irvin.glass,available,72.99,72.99,medium,low,5,namesilo,,,28/09/2026 16:39
 02626c96-0e79-4fbe-b39c-4c71f9dc5092,unbiased.glass,available,72.99,72.99,high,low,8,namesilo,,,12/09/2026 01:52
@@ -427,6 +446,7 @@ db9e84da-8505-4b15-98d9-2cc60d6cb6d2,formations.glass,available,76.98,99.98,medi
 cbe95349-5027-4371-96cc-d81a7a6aa8ce,xxix.glass,available,72.99,72.99,medium,low,4,namesilo,,,
 0ebcbe13-0421-47dc-a167-d2d30183b837,advocator.glass,available,72.99,72.99,medium,low,9,namesilo,,,17/09/2026 11:45
 2f8d2723-76d1-4dac-b2c8-24ab96eac227,eyetooth.glass,available,72.99,72.99,medium,low,8,namesilo,,,11/08/2026 16:59
+dfaf0476-3c64-4b92-8c2f-11a4ac788322,briefed.glass,available,56.2,56.2,high,low,7,cloudflare,,,02/10/2026 13:19
 bb7d767e-1bef-4b3d-b834-a3ccc16c5b08,thrashing.glass,available,72.99,72.99,medium,low,9,namesilo,,,13/09/2026 07:54
 ef3f1cf7-0f1f-4023-837d-b7d3dcf7297f,system.glass,available,58.16,58.16,high,medium,6,spaceship,,,30/09/2026 20:45
 639d4189-bfb7-47bc-9166-d38130bca45c,constants.glass,available,76.98,99.98,medium,low,9,namecheap,,,21/09/2026 01:13
@@ -436,6 +456,7 @@ ef3f1cf7-0f1f-4023-837d-b7d3dcf7297f,system.glass,available,58.16,58.16,high,med
 8e08b0db-c12f-4af2-abdd-0ccd6d31cee1,wiley.glass,available,72.99,72.99,high,low,5,namesilo,,,27/09/2026 08:05
 d6822168-d75c-463b-85b3-949c5c9f75d3,killers.glass,available,72.99,72.99,medium,low,7,namesilo,,,27/09/2026 11:04
 717c53aa-489b-4468-a732-d120a194e513,adoptee.glass,available,76.98,99.98,medium,low,7,namecheap,,,17/09/2026 09:39
+2a070214-d9f8-4cfb-8a7f-a45c4156136b,ernestine.glass,available,58.19,58.19,medium,low,9,porkbun,,,02/10/2026 19:48
 bf3061bd-50db-4568-a800-50e9121eaca9,alters.glass,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 13:23
 5bc251f6-69cf-4e14-9e39-35f19e791950,sponsoring.glass,available,56.2,56.2,medium,low,10,cloudflare,,,01/10/2026 18:41
 0983d567-f454-41e5-a583-1ebec348d91b,cone.glass,available,72.99,72.99,high,low,4,namesilo,,,29/09/2026 10:50
@@ -443,6 +464,7 @@ bf3061bd-50db-4568-a800-50e9121eaca9,alters.glass,available,72.99,72.99,medium,l
 c288ca12-1642-4470-b693-9ec96e9f3d17,gaspar.glass,available,58.19,58.19,high,low,6,porkbun,,,29/09/2026 18:14
 de6a5dc2-32c4-4831-b209-846482c06199,irrigation.glass,available,76.98,99.98,high,low,10,namecheap,,,29/09/2026 19:22
 6876b056-8ac8-45a9-bdb1-f172ecf19165,appeals.glass,available,58.16,58.16,low,low,7,spaceship,,,28/09/2026 23:39
+4169cebe-92c2-4355-976f-2654c467c24a,grc.glass,available,56.2,56.2,high,low,3,cloudflare,,,02/10/2026 18:32
 ca2e6ee9-e501-4349-a1ef-341ad0139f7a,laser.glass,available,72.99,72.99,high,low,5,namesilo,,,28/09/2026 02:15
 426918f3-32b5-491f-be2c-79c994fb8d98,manuals.glass,available,72.99,72.99,medium,low,7,namesilo,,,20/09/2026 09:33
 1a3503ef-5f29-4368-bb0f-401d473ab76f,always.glass,available,58.16,58.16,high,medium,6,spaceship,,,28/09/2026 12:09
@@ -452,10 +474,12 @@ d71f2c6c-d07c-4a6f-bdd3-2e51724c5659,puddings.glass,available,77.99,83.99,medium
 bcbc7f43-652e-4876-a442-17f66745a689,exilic.glass,available,72.99,72.99,medium,low,6,namesilo,,,17/08/2026 17:19
 9436bd46-40ba-48b4-a0df-cf14ec5e3857,uprising.glass,available,58.16,58.16,medium,low,8,spaceship,,,29/09/2026 01:22
 0f6f3113-b9ac-40fa-9118-41a51fcab27f,replica.glass,available,58.16,58.16,high,low,7,spaceship,,,29/09/2026 20:10
+5ef1f584-e5d0-4930-b0c3-f3f2f7094529,guidebook.glass,available,72.99,72.99,high,low,9,namesilo,,,03/10/2026 01:03
 c81e76ef-581d-4afd-a7b5-d23c0d3bbd50,devours.glass,available,72.99,72.99,low,low,7,namesilo,,,21/09/2026 08:47
 166ab8c6-3e86-47a3-aa4d-f0a5f0aba659,bernhardt.glass,available,76.98,99.98,medium,low,9,namecheap,,,23/09/2026 09:55
 c541736c-3aea-48e2-8316-a0d1ba6f163c,lhasa.glass,available,72.99,72.99,high,low,5,namesilo,,,24/09/2026 12:27
 49e1f56a-d9d5-4903-9755-b2e05a31b7b2,ottoman.glass,available,72.99,72.99,high,low,7,namesilo,,,04/09/2026 18:38
+588d0faf-c2da-4651-896b-73bedcd85275,valence.glass,available,56.2,56.2,high,low,7,cloudflare,,,02/10/2026 17:04
 a63babf4-fb00-4de8-b34d-0a1685e7e9d5,asserted.glass,available,72.99,72.99,medium,low,8,namesilo,,,07/08/2026 05:54
 bd240388-99af-40fb-bbd4-0d66f7e9e402,relief.glass,available,72.99,72.99,high,low,6,namesilo,,,01/10/2026 02:48
 ddf282b6-83fa-49f0-b6e9-46033cec209d,emigrants.glass,available,58.16,58.16,medium,low,9,spaceship,,,27/09/2026 11:26
@@ -464,16 +488,19 @@ ddf282b6-83fa-49f0-b6e9-46033cec209d,emigrants.glass,available,58.16,58.16,mediu
 d464efdf-b463-4117-9a58-2dab88bf434d,sisters.glass,available,72.99,72.99,high,low,7,namesilo,,,
 b492d1e8-8e06-4566-9948-e6742666dd70,blindness.glass,available,56.2,56.2,medium,low,9,cloudflare,,,29/09/2026 17:58
 e38a87da-cf20-478d-87e4-48938c9384bf,bonk.glass,available,72.99,72.99,medium,low,4,namesilo,,,22/09/2026 10:31
+12b58366-7fcb-4777-b630-620cb26623f9,misha.glass,available,58.16,58.16,high,low,5,spaceship,,,03/10/2026 04:42
 4beefd29-8129-4e4f-9510-dcfb89ec240d,feelings.glass,available,58.16,58.16,high,low,8,spaceship,,,29/09/2026 19:09
 d651caa2-a95e-40d2-8190-0a5dd11de57f,factual.glass,available,76.98,99.98,high,low,7,namecheap,,,17/08/2026 20:31
 65217cda-0ca8-4af4-9dda-afec626d1d9a,holland.glass,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 02:07
+9428337c-2065-466a-80ad-58d9f015fef6,preachers.glass,available,56.2,56.2,medium,low,9,cloudflare,,,02/10/2026 22:52
 1c0c8adc-8f41-45d0-9a28-d728cc4df293,valve.glass,available,58.19,58.19,high,low,5,porkbun,,,28/09/2026 11:02
 8dd8b96b-6179-4fc9-9f0f-825bab420f99,gloria.glass,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 02:39
 55cefd05-79fa-4009-9fde-b68605762781,nullified.glass,available,72.99,72.99,medium,low,9,namesilo,,,22/08/2026 08:56
 e1eb893a-b671-43e0-8350-f1557000b2bf,maintaining.glass,available,60.14,60.14,high,low,11,dynadot,,,29/09/2026 10:51
 7bda1547-a7f5-4777-bca0-d6cf6ed1dbeb,induced.glass,available,72.99,72.99,high,low,7,namesilo,,,22/08/2026 03:27
 a8ec96a8-b811-4908-aab1-851336925239,stating.glass,available,58.16,58.16,high,low,7,spaceship,,,01/10/2026 19:25
-5798cea1-987b-4b44-aaa7-8bb38da4fa3f,bits.glass,available,72.99,72.99,high,low,4,namesilo,,,
+888160c1-92e9-4de3-beda-9e4f32e7db14,abnormality.glass,available,58.16,58.16,medium,low,11,spaceship,,,02/10/2026 11:02
+5798cea1-987b-4b44-aaa7-8bb38da4fa3f,bits.glass,available,56.2,56.2,high,low,4,cloudflare,,,02/10/2026 20:49
 d2e0a479-9f00-428f-a3f1-c6b82c956e64,exposed.glass,available,72.99,72.99,high,low,7,namesilo,,,17/08/2026 18:37
 23970b5c-6fd9-4da5-8f07-533fe1ff5dcc,precise.glass,available,72.99,72.99,high,low,7,namesilo,,,27/09/2026 04:53
 421176ed-20a0-44a1-92a0-68a8ce5d5fed,utile.glass,available,72.99,72.99,medium,low,5,namesilo,,,13/09/2026 00:01
@@ -496,15 +523,18 @@ c10b7116-a292-48e4-b499-fc555cad4c9a,brescia.glass,available,58.16,58.16,medium,
 0e4924f1-4202-4a80-8ba7-445d867d3021,abidjan.glass,available,72.99,72.99,medium,low,7,namesilo,,,16/09/2026 15:38
 7358a307-0e39-425d-b07c-f2b923c179ab,import.glass,premium,85.8,85.8,high,low,6,namecheap,,,25/09/2026 18:33
 9d09341c-cd61-487d-9a98-4119de882f05,aglaia.glass,available,77.99,83.99,medium,low,6,name.com,,,17/09/2026 18:17
+9dd4ea67-b925-4c5d-ac18-473ff7b4a238,vikram.glass,available,58.19,58.19,medium,low,6,porkbun,,,02/10/2026 09:40
 6fda1bf6-a429-4266-a039-204977acb6d9,genitals.glass,available,56.2,56.2,high,low,8,cloudflare,,,01/10/2026 19:44
 de6b83b1-593d-4bc1-aab6-0af4b56c27e3,pes.glass,available,56.2,56.2,high,low,3,cloudflare,,,30/09/2026 01:41
 a5fc00b3-a7fa-49d6-9492-c824e5a7558f,adjusting.glass,available,76.98,99.98,high,low,9,namecheap,,,29/09/2026 14:33
 27b439e9-2934-47c7-ba87-e6732d55669f,centrale.glass,available,56.2,56.2,medium,low,8,cloudflare,,,01/10/2026 16:08
 85411cd4-b27f-42fe-98f3-f043370ab5c9,snapping.glass,available,72.99,72.99,high,low,8,namesilo,,,01/10/2026 23:49
+a9c82cfb-6330-47c3-b043-7ef82e48e2cd,addie.glass,available,58.16,58.16,high,low,5,spaceship,,,02/10/2026 11:53
 9154e434-fa95-4469-b1c7-993a805bb7b4,commence.glass,available,72.99,72.99,high,low,8,namesilo,,,23/09/2026 02:22
 3ff57db0-ba9f-403d-a1fa-429229e2e1c6,testing.glass,available,56.2,56.2,high,low,7,cloudflare,,,30/09/2026 13:10
 7e13dbd5-b3bd-4c30-bdd7-88fc86d6918b,seasoned.glass,available,72.99,72.99,high,low,8,namesilo,,,10/09/2026 01:00
 da639b18-4fbd-429a-91ef-52e152c9ce6e,thrice.glass,available,72.99,72.99,medium,low,6,namesilo,,,16/09/2026 08:59
+a80241a3-5dac-4241-bc83-c26484d400a7,snob.glass,available,60.14,60.14,high,low,4,dynadot,,,03/10/2026 01:49
 c5a3e6c3-8b20-4bc7-a74e-124a9e4f479e,hometown.glass,available,58.16,58.16,medium,low,8,spaceship,,,30/09/2026 22:54
 89407250-5afa-4568-8e0c-a9df955c5b07,shadows.glass,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 03:26
 7c9ef43b-04a5-4866-8e9a-be3d0063de6a,installation.glass,available,72.99,72.99,high,low,12,namesilo,,,29/09/2026 04:43
@@ -520,6 +550,7 @@ f5381cba-717b-4673-adfa-ab23a3407440,shrewdly.glass,available,72.99,72.99,medium
 57db6d6a-24ba-4b88-a916-84833ade7cea,iona.glass,available,72.99,72.99,high,low,4,namesilo,,,29/09/2026 22:09
 9816f70b-56c2-40c5-9a73-e1aeda473b08,close.glass,available,72.99,72.99,high,low,5,namesilo,,,21/09/2026 23:48
 0d3a4737-a3ee-4dc2-aece-489341e439ca,ano.glass,available,76.98,99.98,high,low,3,namecheap,,,16/09/2026 18:45
+c8051e39-26c5-4763-86b8-e769b52735b4,leicester.glass,available,56.2,56.2,high,low,9,cloudflare,,,02/10/2026 05:35
 046195cb-b86c-4a45-b339-53afdd099974,planner.glass,available,76.98,99.98,high,low,7,namecheap,,,24/09/2026 17:52
 dc73d4b2-bdca-473d-a6f2-e7822e891a1f,spineless.glass,available,72.99,72.99,medium,low,9,namesilo,,,22/08/2026 08:58
 39fc8111-8111-4ae9-9e0d-faaff8ebff3a,clarification.glass,available,72.99,72.99,medium,low,13,namesilo,,,02/10/2026 01:38
@@ -533,10 +564,12 @@ be117c2f-c261-4abf-b4a6-4b2071343811,biome.glass,available,76.98,99.98,high,low,
 4b95168c-1c2a-47d4-b2d3-47712f759fe4,adapting.glass,available,58.16,58.16,medium,low,8,spaceship,,,02/10/2026 01:43
 756a8ac3-c11c-47cf-9490-a1be47649388,bine.glass,available,72.99,72.99,medium,low,4,namesilo,,,23/09/2026 17:13
 3e0cb579-8e90-4d8b-b6c4-c01d9c044b66,untagged.glass,available,72.99,72.99,medium,low,8,namesilo,,,12/09/2026 14:35
+ae1c0a53-82f5-4ad7-a7db-801a92673aea,deferred.glass,available,72.99,72.99,high,low,8,namesilo,,,03/10/2026 02:43
 876e7174-7788-4df9-8356-ba1192b40333,traced.glass,available,58.16,58.16,low,low,6,spaceship,,,28/09/2026 13:04
 4dbf7274-117c-48f6-82b6-28b820a336f7,mediterranean.glass,available,56.2,56.2,high,low,13,cloudflare,,,29/09/2026 08:26
 b2246092-7cbe-4665-b8fe-1aa298a439a8,putin.glass,available,58.16,58.16,medium,low,5,spaceship,,,28/09/2026 02:59
 9f1af211-6b54-4a12-b2da-706c208cbaaf,papillary.glass,available,72.99,72.99,medium,low,9,namesilo,,,05/09/2026 01:21
+12163eab-5645-4d8a-a319-754b20f4ebb1,kish.glass,available,76.98,99.98,medium,low,4,namecheap,,,02/10/2026 17:54
 679567d5-c55b-4716-b8f3-e0902354c65b,furness.glass,available,58.19,58.19,medium,low,7,porkbun,,,30/09/2026 05:24
 359e4f0b-0e5f-4024-8aa1-364edb447044,lusaka.glass,available,72.99,72.99,medium,low,6,namesilo,,,24/09/2026 12:35
 4e7c9840-c6f6-443f-9567-004e62ad685b,sprightly.glass,available,72.99,72.99,medium,low,9,namesilo,,,10/09/2026 16:49
@@ -551,6 +584,7 @@ f4ec6cfb-f6e5-4079-b9e5-280ef09b1ddb,littler.glass,available,72.99,72.99,medium,
 ae0b97a0-4c89-4c47-bb05-81b4033dd59d,aphis.glass,available,72.99,72.99,medium,low,5,namesilo,,,19/09/2026 17:05
 6a7a0053-d8dc-4d99-9aa6-54259e474111,owes.glass,available,56.2,56.2,high,low,4,cloudflare,,,28/09/2026 05:04
 5e21a533-70f0-49bc-8c9a-97038c9a4d39,pithy.glass,available,72.99,72.99,high,low,5,namesilo,,,19/09/2026 23:01
+5eb4ad74-3fbb-4adb-ba76-64560c908f5e,bly.glass,available,72.99,72.99,medium,low,3,namesilo,,,02/10/2026 06:48
 3f2e7805-45a5-4b1b-8fb3-ad378d15909e,monterrey.glass,available,60.14,60.14,medium,low,9,dynadot,,,28/09/2026 14:54
 bc2d05e6-03bd-4145-97ad-e4587e1b18d9,gaelic.glass,available,72.99,72.99,high,low,6,namesilo,,,11/08/2026 23:40
 2b17e512-7b0c-4341-bc20-3323c35256bc,nonporous.glass,available,76.98,99.98,medium,low,9,namecheap,,,03/09/2026 20:18
@@ -564,9 +598,11 @@ e026724a-c8df-4477-9567-501fe09ccae5,woodenly.glass,available,72.99,72.99,low,lo
 597b2a58-36e4-487e-9507-125fd2b939b9,spiny.glass,available,76.98,99.98,medium,low,5,namecheap,,,08/08/2026 17:49
 25eb4dc6-6757-46a7-bf6b-376538849b2c,fervently.glass,available,76.98,99.98,medium,low,9,namecheap,,,14/09/2026 18:24
 06b09497-79fc-4b7c-ac18-311a511a47c3,gigi.glass,available,72.99,72.99,high,low,4,namesilo,,,01/10/2026 11:39
+5dba9388-4da6-4853-9dd0-cc48e85ce838,expands.glass,available,72.99,72.99,medium,low,7,namesilo,,,02/10/2026 12:26
 3b2238bf-b15b-4af2-8895-67b7c76a1bee,chalybeate.glass,available,72.99,72.99,medium,low,10,namesilo,,,12/08/2026 01:32
 5d4d6f8a-fab9-4f9c-9441-7493cedf60d8,agone.glass,available,76.98,99.98,medium,low,5,namecheap,,,
 3bbc9f19-8df8-40e4-9c66-f3843ad9ab60,ecommerce.glass,available,58.16,58.16,high,low,10,spaceship,,,29/09/2026 17:22
+76d7cd5c-56ae-4430-84d8-ebb335f006c3,southall.glass,available,58.16,58.16,medium,low,8,spaceship,,,02/10/2026 21:15
 b6121364-8db7-4619-a677-156d2b8d55c6,frunze.glass,available,72.99,72.99,medium,low,6,namesilo,,,23/09/2026 21:44
 2ee40148-2378-4d1c-81ef-e53837fec389,achromatic.glass,available,72.99,72.99,medium,low,10,namesilo,,,
 c1263156-71cf-4893-88db-813f5399ebeb,regards.glass,available,56.2,56.2,medium,low,7,cloudflare,,,28/09/2026 12:38
@@ -588,6 +624,7 @@ b3684719-9871-44a8-b2d7-c5d59778825c,gwyn.glass,available,72.99,72.99,high,low,4
 0441344e-9a45-4168-90f8-cb8db603d57c,stroller.glass,available,72.99,72.99,high,low,8,namesilo,,,18/09/2026 17:04
 5216f36a-2ceb-47cc-a82c-58f567d5b9c8,urethral.glass,available,72.99,72.99,medium,low,8,namesilo,,,12/09/2026 23:35
 f2f862ce-7489-4d8d-a12c-cc55ecd461d6,indecisive.glass,available,72.99,72.99,medium,low,10,namesilo,,,22/08/2026 02:27
+8035910c-949a-4dab-868f-4b9f2ea644f1,moira.glass,available,76.98,99.98,high,low,5,namecheap,,,02/10/2026 17:40
 c6afcdbc-0759-4aa9-955f-eb54d2eb788d,squawky.glass,available,72.99,72.99,low,low,7,namesilo,,,11/08/2026 12:26
 5dbb4a5b-6da4-4282-ae22-0f8d90edca5c,compensation.glass,available,72.99,72.99,high,low,12,namesilo,,,29/09/2026 04:39
 0c7866fc-89f8-41f3-86d0-7c9d56d68d16,jamming.glass,available,58.16,58.16,medium,low,7,spaceship,,,01/10/2026 19:23
@@ -597,25 +634,31 @@ a9c9f9ca-e6c9-4169-b3fa-f191ba3df8ec,mustafa.glass,available,72.99,72.99,high,lo
 10524d4c-54dc-490f-8dfb-fae7ceb9661d,citrus.glass,available,76.98,99.98,high,low,6,namecheap,,,30/09/2026 01:03
 b55ea4a7-8663-40de-8623-d38cf3256514,senate.glass,available,58.16,58.16,medium,low,6,spaceship,,,28/09/2026 10:53
 ac578707-32b6-40b7-8e29-345f8cf5e1c9,conductive.glass,available,72.99,72.99,high,low,10,namesilo,,,12/08/2026 20:33
+30162faa-8454-4da9-aa22-d5e01c772a21,backstory.glass,available,72.99,72.99,high,low,9,namesilo,,,03/10/2026 03:04
 2a7ab692-d15e-4eb9-8891-b7d2959f7962,kat.glass,available,72.99,72.99,high,low,3,namesilo,,,17/09/2026 15:23
 fd013242-54c7-478c-9185-2946a7618d26,jackfruit.glass,available,72.99,72.99,high,low,9,namesilo,,,20/09/2026 11:58
 6ea864b3-908f-412c-a16f-c296b0297416,disappointing.glass,available,72.99,72.99,medium,low,13,namesilo,,,28/09/2026 07:09
 6ebbb1dd-04fd-48eb-87e1-a031b0ddb2d8,astrodome.glass,available,72.99,72.99,medium,low,9,namesilo,,,20/09/2026 17:37
+56e6196a-91b1-4bf3-83a6-9f75e964b163,aic.glass,available,56.2,56.2,high,low,3,cloudflare,,,02/10/2026 19:14
 baedb091-bbcd-4b34-b48d-51ac966f76cc,schroeder.glass,available,58.16,58.16,high,low,9,spaceship,,,28/09/2026 08:07
 fee4de6c-2808-4354-99d2-bb0fd80d4604,pigweed.glass,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 15:54
-28e86f68-3940-4b27-970c-fcf803403a77,records.glass,available,72.99,72.99,high,low,7,namesilo,,,
+28e86f68-3940-4b27-970c-fcf803403a77,records.glass,available,58.16,58.16,high,low,7,spaceship,,,02/10/2026 21:06
+5cd29c00-0aca-4109-82de-2cc1891f9dbb,deathbed.glass,available,72.99,72.99,medium,low,8,namesilo,,,03/10/2026 00:26
 183061c4-0efd-4f56-8533-63a77c11c85f,acts.glass,available,56.2,56.2,high,low,4,cloudflare,,,28/09/2026 18:10
 38edba15-38c5-4d7d-ad13-e90b0d02390b,tricuspid.glass,available,76.98,99.98,medium,low,9,namecheap,,,11/09/2026 19:29
+d8a1845d-b1ce-435c-b588-8114cd878747,fulda.glass,available,76.98,99.98,medium,low,5,namecheap,,,02/10/2026 20:14
 4f9b452c-1048-4138-a0c6-cdcc5cdf2047,antemortem.glass,available,72.99,72.99,medium,low,10,namesilo,,,
 519d43e4-edd3-44f3-a488-26f2c78a3b81,broderick.glass,available,58.16,58.16,high,low,9,spaceship,,,29/09/2026 21:41
+a2c95561-2179-405b-b921-548eadc05d55,ene.glass,available,72.99,72.99,high,low,3,namesilo,,,03/10/2026 00:32
 c73fa1b6-a0dd-4f2b-99ee-effca4447d89,enacted.glass,available,72.99,72.99,medium,low,7,namesilo,,,01/10/2026 15:52
 0c4179f7-4dd2-48dc-97b6-a0d6c6e92149,biennial.glass,available,76.98,99.98,high,low,8,namecheap,,,09/08/2026 19:52
 a79a4f56-2cab-447b-a17c-f8b148028f6e,owns.glass,available,72.99,72.99,medium,low,4,namesilo,,,18/09/2026 16:37
 0a3b6705-530b-41d7-bc9e-2277d722c65b,hashtag.glass,available,72.99,72.99,high,low,7,namesilo,,,02/10/2026 03:26
 8e426a59-6f30-4e81-af32-b5210427594d,advertence.glass,available,72.99,72.99,medium,low,10,namesilo,,,17/09/2026 11:06
 51cb5973-90b5-4628-af48-854a1068cdad,lazily.glass,available,72.99,72.99,medium,low,6,namesilo,,,15/09/2026 01:40
+a222a601-87cb-4bc2-91de-b7f7599cd687,firenze.glass,available,72.99,72.99,high,low,7,namesilo,,,03/10/2026 00:50
 80836dc8-453a-435c-b6bf-23c19a310dad,songful.glass,available,72.99,72.99,medium,low,7,namesilo,,,11/08/2026 17:36
-061f4edb-c402-4a92-8820-0e3dd2076b10,duracell.glass,available,77.99,,high,low,8,name.com,,,
+061f4edb-c402-4a92-8820-0e3dd2076b10,duracell.glass,available,72.99,72.99,high,low,8,namesilo,,,02/10/2026 06:21
 0903ec89-1124-452f-b449-9269bcd54a5a,hendry.glass,available,60.14,60.14,medium,low,6,dynadot,,,30/09/2026 21:36
 0030b278-7c42-4ef6-9fb2-113afcc7b0a6,mortgaged.glass,available,72.99,72.99,medium,low,9,namesilo,,,25/08/2026 06:38
 5515c80b-c3cb-4c93-ba99-5bf9e5a5ac55,primo.glass,available,72.99,72.99,high,low,5,namesilo,,,09/09/2026 02:07
@@ -638,6 +681,8 @@ d093e539-61a9-4458-9914-8b21afe23e70,fatless.glass,available,72.99,72.99,medium,
 21a5d55c-fd06-4893-a836-cb48955d181c,khaki.glass,available,72.99,72.99,high,low,5,namesilo,,,22/08/2026 15:47
 4af7a917-813f-401b-8896-7fa4fea4dd2b,actions.glass,available,72.99,72.99,medium,low,7,namesilo,,,
 84b99c36-af06-477b-a2d6-158f5b496352,guadalajara.glass,available,72.99,72.99,medium,low,11,namesilo,,,28/09/2026 07:53
+e48ebb04-18e1-4413-b280-91b5d8bbf7de,cheerleading.glass,available,60.14,60.14,high,low,12,dynadot,,,02/10/2026 21:40
+3018a919-c92d-46ae-a9dd-48f29c56dbb7,apologizing.glass,available,76.98,99.98,low,low,11,namecheap,,,02/10/2026 22:41
 7a780150-b0b9-47c9-9283-df81bbf61b1f,windmills.glass,available,72.99,72.99,medium,low,9,namesilo,,,20/09/2026 13:55
 3fe6b83b-d521-4c24-bc2e-a3d010067087,sonorous.glass,available,72.99,72.99,high,low,8,namesilo,,,10/09/2026 14:13
 be89aab2-bd6e-478e-83ae-e29a0cf5cbe6,terrorist.glass,available,72.99,72.99,medium,low,9,namesilo,,,25/09/2026 10:50
@@ -665,6 +710,7 @@ c0b9f31d-e044-40b9-b0fa-90305e5daa1e,duplicity.glass,available,72.99,72.99,mediu
 6153a0ec-a01d-49b4-8933-89b939cd9840,closely.glass,available,58.16,58.16,medium,low,7,spaceship,,,28/09/2026 14:00
 bf99b8c7-bdb6-46c9-a209-8a4e9e7ebdec,foundational.glass,available,56.2,56.2,high,low,12,cloudflare,,,01/10/2026 22:53
 f91fa8f4-1a6a-4fd1-a006-7ededbae5873,ardour.glass,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 03:15
+a81ec07c-e412-4abd-b2d8-cb16f1c74a90,glitch.glass,available,58.16,58.16,high,medium,6,spaceship,,,02/10/2026 15:33
 55f76410-1302-4c57-ac78-0482b1e101f8,monatomic.glass,available,72.99,72.99,medium,low,9,namesilo,,,25/08/2026 04:12
 ebb2a63d-4921-41ba-9e44-42181b99a90a,sion.glass,available,72.99,72.99,high,low,4,namesilo,,,28/09/2026 06:03
 6cee7b6b-5de7-468b-babb-f1056dbc01bf,birth.glass,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 02:50
@@ -677,6 +723,7 @@ f62671e2-08ef-4509-b6ce-1ad79cdc3c7b,evening.glass,available,72.99,72.99,high,lo
 1408019a-0bb0-4707-9b81-3932e79feb59,defense.glass,available,58.16,58.16,high,low,7,spaceship,,,29/09/2026 13:31
 5eec55ec-69a2-43fc-8f1c-c46daa757019,wrists.glass,available,76.98,99.98,medium,low,6,namecheap,,,20/09/2026 10:52
 18d551a6-8e2f-48c4-9e6d-50bda21727bc,airspace.glass,available,76.98,99.98,high,low,8,namecheap,,,17/09/2026 22:49
+293eb697-ba05-4efb-b7ec-65f04351aca4,posen.glass,available,56.2,56.2,medium,low,5,cloudflare,,,02/10/2026 20:05
 573e070d-a984-460b-8d4c-288dd568c57e,cantaloupe.glass,available,76.98,99.98,high,low,10,namecheap,,,24/09/2026 12:07
 e6d400d4-0bac-4eda-8e53-0355bb539958,gdr.glass,available,72.99,72.99,high,low,3,namesilo,,,28/09/2026 07:11
 f92b95e8-8b00-4f6b-9887-1fc941e2c6b5,vinyl.glass,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 20:35
@@ -685,6 +732,7 @@ d8d930e4-1334-4795-9ec2-31f04813e2e8,kills.glass,available,76.98,99.98,medium,lo
 85704f60-052f-4ed7-b685-cd053da4678a,galicia.glass,available,123.99,123.99,high,low,7,godaddy,,,28/09/2026 01:58
 b0f04e5b-7922-4933-b230-01e1edd74a93,torture.glass,available,76.98,99.98,high,low,7,namecheap,,,11/09/2026 18:03
 f2ee4a9c-cc24-4539-a7fd-00f93b2ef704,input.glass,available,76.98,99.98,high,low,5,namecheap,,,19/09/2026 11:49
+b1be7e16-ba96-4a7e-9b50-2896d8a97a56,islamist.glass,available,56.2,56.2,high,low,8,cloudflare,,,02/10/2026 05:26
 acf6f013-794f-471a-aca8-626bb61c4638,mitotic.glass,available,72.99,72.99,medium,low,7,namesilo,,,25/08/2026 02:08
 5d3f55fd-cfd2-41e1-8ff0-fb87e633a789,editors.glass,available,72.99,72.99,medium,low,7,namesilo,,,29/09/2026 17:03
 313f8108-fac3-443f-bb93-fe2dca836092,scribe.glass,available,72.99,72.99,high,low,6,namesilo,,,21/09/2026 03:59
@@ -716,6 +764,7 @@ c0ac33a1-382f-42b1-96e2-0c9ff0576ebc,gayly.glass,available,72.99,72.99,medium,lo
 bc8b8c64-cf02-4623-b733-06980918fdc7,laid.glass,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 13:04
 c73a20b3-1ab0-4e89-ab87-af45ae48027f,jen.glass,available,60.14,60.14,high,low,3,dynadot,,,28/09/2026 03:57
 0dcc9f58-d4ec-4d6a-8930-7a67688653fb,venomed.glass,available,72.99,72.99,medium,low,7,namesilo,,,13/09/2026 02:06
+7d380603-9a3e-4ea2-acf5-30cc498cca8d,overcame.glass,available,58.16,58.16,medium,low,8,spaceship,,,02/10/2026 11:16
 ab19d4e7-5dee-408d-94eb-7a956ef60538,cyrillic.glass,available,77.99,83.99,medium,low,8,name.com,,,13/08/2026 14:33
 2df187a8-e3eb-49c8-b417-1165660037dc,geology.glass,available,60.14,60.14,high,low,7,dynadot,,,29/09/2026 07:05
 13d5dcc9-f9c3-41cf-a19f-016b47925c27,tops.glass,premium,102.67,102.67,high,low,4,spaceship,,,27/09/2026 21:56
@@ -732,6 +781,7 @@ c2fd214b-016c-42c9-a943-d278800016fa,revenues.glass,available,56.2,56.2,medium,l
 58e03fd5-e24d-49e7-88c3-69f5b230c9bf,clare.glass,available,58.19,58.19,high,low,5,porkbun,,,29/09/2026 03:17
 c9b91c81-537b-4fa7-b931-6db6523a327a,minimum.glass,available,76.98,99.98,high,low,7,namecheap,,,25/09/2026 20:24
 4553beeb-b0e8-4e52-8a5e-a8b8b4205fbd,tiptop.glass,available,72.99,72.99,high,low,6,namesilo,,,
+db923e0c-e548-4695-9984-265a2e687df8,pessimistic.glass,available,58.16,58.16,medium,low,11,spaceship,,,02/10/2026 17:42
 a1a412eb-0bf5-4151-920c-5f03198035a4,tacitus.glass,available,72.99,72.99,high,low,7,namesilo,,,29/09/2026 07:01
 b4e11a68-aa87-4074-90a4-cd71ec33617f,skywards.glass,available,72.99,72.99,medium,low,8,namesilo,,,10/09/2026 09:51
 8edd7d04-97aa-491d-9eae-baa1a730a025,energies.glass,available,72.99,72.99,medium,low,8,namesilo,,,30/09/2026 06:48
@@ -772,7 +822,9 @@ d8aa40e7-aa02-45ec-90b6-f295c22c45f9,arise.glass,available,60.14,60.14,high,low,
 6f04ac35-e3d9-4db0-989f-15cc80d92338,ots.glass,available,72.99,72.99,high,low,3,namesilo,,,01/10/2026 07:34
 2c9825d3-a9c2-497c-b324-58a54043a4f4,podlike.glass,available,72.99,72.99,medium,low,7,namesilo,,,08/09/2026 22:31
 33a77c8f-3a4a-4744-a915-b6a50d69d25a,entries.glass,available,56.2,56.2,medium,low,7,cloudflare,,,30/09/2026 06:24
+9b257063-3ff6-450e-8836-6975a4b6e1c1,bruton.glass,available,72.99,72.99,medium,low,6,namesilo,,,02/10/2026 10:28
 573f2b8b-1e12-403c-a275-e8bcfc02db8d,iga.glass,available,76.98,99.98,medium,low,3,namecheap,,,29/09/2026 13:05
+3b1a2da9-61eb-4d5e-a346-8cfd4128c1ce,migrated.glass,available,56.2,56.2,medium,low,8,cloudflare,,,02/10/2026 21:27
 db0e9aed-3241-405a-93de-ad19d11cd95b,uttered.glass,available,72.99,72.99,medium,low,7,namesilo,,,17/08/2026 18:44
 0e65a477-e11e-4f8e-afdf-c3ccf8e9ed93,towed.glass,available,77.99,,medium,low,5,name.com,,,
 1df45043-282e-471a-9eb4-2905097d35eb,fling.glass,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 15:22
@@ -780,16 +832,19 @@ db0e9aed-3241-405a-93de-ad19d11cd95b,uttered.glass,available,72.99,72.99,medium,
 1982507f-adb9-41d0-86f4-78acbdca3c6a,newly.glass,available,72.99,72.99,high,low,5,namesilo,,,18/08/2026 15:17
 45defc74-7086-4a7e-8bbd-c621ca2cca9a,mcgovern.glass,available,76.98,99.98,medium,low,8,namecheap,,,28/09/2026 08:53
 ca489063-3d9f-4c2e-b9c1-d4dde20f06b5,amphitheater.glass,available,72.99,72.99,high,low,12,namesilo,,,01/10/2026 02:33
+2b75cd1f-d594-4756-bd16-b7a207e5c873,batchelor.glass,available,58.16,58.16,medium,low,9,spaceship,,,02/10/2026 07:37
+49124804-039c-4a3e-965f-2eb8df426cf0,hela.glass,available,72.99,72.99,high,low,4,namesilo,,,02/10/2026 05:12
 109d9d1f-5279-40de-aa16-19623f643a7b,random.glass,available,76.98,99.98,high,medium,6,namecheap,,,19/09/2026 11:18
 ceffe872-6d0f-4811-b8fa-fe6a0a8b6a1c,windy.glass,available,72.99,72.99,high,low,5,namesilo,,,22/09/2026 22:44
 6e92e083-c66a-4e27-bfb1-6baa701a83c8,rossetti.glass,available,58.16,58.16,medium,low,8,spaceship,,,30/09/2026 01:13
 6823d219-c340-4b40-b4dd-ff701dd866ef,salem.glass,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 18:13
-9a232fa5-cb8b-4483-8f1d-b699f0ff02fa,gummy.glass,available,76.98,99.98,high,low,5,namecheap,,,28/09/2026 07:55
+9a232fa5-cb8b-4483-8f1d-b699f0ff02fa,gummy.glass,available,72.99,72.99,high,low,5,namesilo,,,02/10/2026 11:16
 ce8324e5-9f76-4058-812e-cabb565215e0,facetious.glass,available,72.99,72.99,medium,low,9,namesilo,,,08/08/2026 14:39
 5c73db0b-8b63-437c-a15c-6433f1412b58,distribute.glass,available,72.99,72.99,high,low,10,namesilo,,,28/09/2026 00:20
 69cbe577-d529-4ce6-93f8-5170ccdd5199,retentive.glass,available,72.99,72.99,medium,low,9,namesilo,,,09/09/2026 11:47
 298465b7-2be7-4344-9a93-2aca845871a3,toot.glass,available,72.99,72.99,high,low,4,namesilo,,,23/09/2026 01:30
 43724d74-d16d-46d3-b445-59c63f49ff41,refreshing.glass,available,72.99,72.99,high,low,10,namesilo,,,11/08/2026 00:37
+d95d1509-38c8-4fe0-89af-b0817f68d166,eng.glass,available,72.99,72.99,high,low,3,namesilo,,,02/10/2026 06:49
 4eb478de-7d7c-4bce-ab30-681dafb1bf61,guides.glass,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 16:42
 c2a318fb-d159-4ac3-8ce0-76f3821b0618,hexagonal.glass,available,72.99,72.99,medium,low,9,namesilo,,,21/08/2026 07:50
 457efc30-82da-4e4a-9ac0-935feb772eca,obituary.glass,available,72.99,72.99,high,low,8,namesilo,,,29/09/2026 13:33
@@ -802,7 +857,7 @@ e5ae823f-2bb9-42e5-aeb4-2387a412bfb5,puerile.glass,available,72.99,72.99,medium,
 f7a7deed-25fc-4982-b2af-ea6c7fa4021f,orbitual.glass,available,72.99,72.99,medium,low,8,namesilo,,,04/09/2026 17:39
 32732af8-4062-4eb4-8f6a-cda374db4f86,kwhr.glass,available,72.99,72.99,high,low,5,namesilo,,,21/09/2026 11:57
 bd9d1d98-cf41-4bfc-9d5b-8339f91ef604,midautumn.glass,available,72.99,72.99,high,low,9,namesilo,,,17/09/2026 10:02
-69629ce3-cfe1-4af5-a43e-fae93acbaaff,subsidiary.glass,available,60.14,60.14,high,low,10,dynadot,,,29/09/2026 14:18
+69629ce3-cfe1-4af5-a43e-fae93acbaaff,subsidiary.glass,available,58.16,58.16,high,low,10,spaceship,,,02/10/2026 12:25
 5b4b2fa9-8e00-435b-a007-f9c1ca4ada6e,vinegar.glass,available,58.16,58.16,high,low,7,spaceship,,,29/09/2026 08:17
 2b49f217-6ae7-4560-8dd1-fa8a37a50fc6,energizing.glass,available,72.99,72.99,high,low,10,namesilo,,,
 52270f7a-3a9b-4260-9fc8-2cac93fb53b8,palmy.glass,available,76.98,99.98,medium,low,5,namecheap,,,10/08/2026 19:15
@@ -813,12 +868,15 @@ bd9d1d98-cf41-4bfc-9d5b-8339f91ef604,midautumn.glass,available,72.99,72.99,high,
 0674ec24-e6ca-404a-8e8b-90c69f5c987f,asc.glass,available,58.16,58.16,high,low,3,spaceship,,,29/09/2026 14:58
 f21fa1ae-cbe9-4092-b1c1-b74ac24906cc,masked.glass,available,72.99,72.99,high,low,6,namesilo,,,12/08/2026 11:32
 33ca9b20-f512-4498-904e-272708c74ba3,highness.glass,available,58.16,58.16,high,low,8,spaceship,,,28/09/2026 14:27
+540ea7f8-5c2f-4295-90e1-672877bcd539,rcmp.glass,available,72.99,72.99,medium,low,4,namesilo,,,03/10/2026 01:38
 d60283df-1276-4550-8fb3-8e71f698fb39,aspirant.glass,available,72.99,72.99,medium,low,8,namesilo,,,07/08/2026 05:02
+76ed11ac-4c12-4189-849d-e3a7a92cd5a4,gwynn.glass,available,56.2,56.2,medium,low,5,cloudflare,,,03/10/2026 00:36
 a8095fe4-59f6-47ed-a15e-da351b6b4d7d,wool.glass,available,72.99,72.99,high,low,4,namesilo,,,28/09/2026 10:46
 2635875f-7935-467f-ae4f-90f50902a8c5,satisfaction.glass,available,72.99,72.99,high,low,12,namesilo,,,28/09/2026 04:23
 13e51e6f-21f8-4e24-978c-fcfd9fe6df6f,hack.glass,available,56.2,56.2,high,medium,4,cloudflare,,,28/09/2026 01:47
 7162e796-682c-41b5-ac06-c598887f24b6,conifer.glass,available,58.16,58.16,high,low,7,spaceship,,,01/10/2026 01:33
 b569f508-1e88-47db-b0a6-3443badd3cf3,gregory.glass,available,72.99,72.99,high,low,7,namesilo,,,19/09/2026 06:00
+37506164-27e6-421f-a644-affff0fb5d23,supplements.glass,available,72.99,72.99,medium,low,11,namesilo,,,02/10/2026 14:12
 5ab43ee2-90a1-4ec4-8fd5-3e7080ea5b0b,certification.glass,available,58.19,58.19,medium,low,13,porkbun,,,30/09/2026 14:36
 dc9c902d-02e8-4a46-9859-33d3c43de603,owen.glass,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 09:42
 7863203c-377c-4b9f-afd9-4a75a71d7f11,chthonic.glass,available,72.99,72.99,medium,low,8,namesilo,,,12/08/2026 07:28
@@ -831,6 +889,7 @@ a4a7d463-087e-465f-84f9-f8df494d0dfc,facade.glass,available,72.99,72.99,high,low
 01be6808-b095-4536-8571-0808f550d517,comforts.glass,available,76.98,99.98,high,low,8,namecheap,,,18/09/2026 18:50
 3ca81dfc-7999-459d-967f-b795219e2063,sylvania.glass,available,58.16,58.16,medium,low,8,spaceship,,,30/09/2026 22:13
 d72a84b7-557b-4d05-bc79-bb247acfd896,rode.glass,available,60.14,60.14,medium,low,4,dynadot,,,28/09/2026 11:10
+1660055a-7e7e-4036-843f-08f8cba2cf97,embroidered.glass,available,56.2,56.2,medium,low,11,cloudflare,,,02/10/2026 22:17
 0712c9b1-e053-4075-9fc4-6910b18b8f8b,jones.glass,available,72.99,72.99,high,low,5,namesilo,,,25/09/2026 00:23
 c316fcdd-a699-409c-89f7-c8f4ef8d47d1,cedar.glass,available,58.19,58.19,high,low,5,porkbun,,,29/09/2026 00:24
 4e964b0d-a8b8-4d6a-9caf-1b7957b12ee1,optic.glass,premium,78.54,78.54,high,low,5,namesilo,,,25/09/2026 23:58
@@ -844,6 +903,7 @@ a6d34d89-b566-48f8-9251-607d565a399f,agni.glass,available,72.99,72.99,medium,low
 74c119b2-36f3-4546-8820-28e4e81de96b,roger.glass,available,60.14,60.14,high,low,5,dynadot,,,01/10/2026 01:50
 a397dcdc-c931-424a-b5cd-1fb76b1e9c0d,cement.glass,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 07:46
 e4ddca58-e319-41cd-9730-cf71363757eb,mendocino.glass,available,60.14,60.14,medium,low,9,dynadot,,,29/09/2026 22:47
+47cc85d5-49a3-4379-bb09-1d9a7ab1d500,busting.glass,available,72.99,72.99,high,low,7,namesilo,,,03/10/2026 03:24
 3badc682-87f3-4189-86b0-2bd16f3212a2,torr.glass,available,58.16,58.16,high,low,4,spaceship,,,01/10/2026 20:33
 d152fa02-5526-4fb3-86d1-78961503d848,mascot.glass,available,58.16,58.16,high,low,6,spaceship,,,30/09/2026 02:14
 e86bc041-7667-46bb-b54a-d1c9f9bd31c6,bioethics.glass,available,76.98,99.98,high,low,9,namecheap,,,23/09/2026 17:56
@@ -873,6 +933,7 @@ d19fd3ec-4614-464e-8b11-8ee6fc533bc7,moonflower.glass,available,72.99,72.99,high
 644a36d0-a18a-409d-b61a-e0e039adc460,greenhouse.glass,premium,123.75,123.75,high,low,10,name.com,,,20/08/2026 19:51
 61e3eedc-17fb-4f8f-bee0-551d76d25103,rhythm.glass,available,76.98,99.98,high,low,6,namecheap,,,25/09/2026 22:02
 ba86ba0b-93ba-4656-940b-68c2024ea2ce,riders.glass,available,72.99,72.99,high,low,6,namesilo,,,20/09/2026 01:20
+d40f5056-fb0c-4c5e-b3a2-9af4ed1181ce,foreclosure.glass,available,58.16,58.16,medium,low,11,spaceship,,,02/10/2026 12:40
 2a4ad4c4-4e8c-4e88-ab17-8a9b26c563a4,where.glass,available,58.16,58.16,high,low,5,spaceship,,,30/09/2026 22:56
 bd72672a-bea6-4835-81c8-27e88c6e98af,elsewhere.glass,available,76.98,99.98,high,low,9,namecheap,,,28/09/2026 14:40
 5750447e-5acb-4ada-ab73-a77d15cc4bd3,filmed.glass,available,72.99,72.99,high,low,6,namesilo,,,18/08/2026 04:25
@@ -896,6 +957,7 @@ b7f2e30b-b272-4c4b-9d61-eafc10f0528c,roll.glass,available,72.99,72.99,high,low,4
 575cf975-09d6-4655-b257-0b443cae1ca5,wonders.glass,available,72.99,72.99,high,low,7,namesilo,,,18/09/2026 02:01
 470cdbe8-7d8f-4579-822e-eaecdcd7ecb6,reeves.glass,available,72.99,72.99,high,low,6,namesilo,,,29/09/2026 09:55
 4785641e-331d-4913-9479-982b10887450,jutland.glass,available,72.99,72.99,medium,low,7,namesilo,,,22/09/2026 15:18
+67ed36a8-0f55-4088-a755-b247e8ffbd8b,amplification.glass,available,58.19,58.19,medium,low,13,porkbun,,,02/10/2026 21:27
 f7e874b2-a4f6-4332-a25b-03a625ca740b,geography.glass,available,60.14,60.14,high,low,9,dynadot,,,28/09/2026 19:20
 e753b087-11c5-4b21-925c-badcca69f530,edentulous.glass,available,72.99,72.99,medium,low,10,namesilo,,,15/08/2026 08:36
 b2353895-9593-4499-a40a-0831836dee58,demonstrated.glass,available,72.99,72.99,medium,low,12,namesilo,,,17/09/2026 21:56
@@ -913,7 +975,9 @@ f8046eec-86b3-41cb-992c-5ae5c184d847,genetically.glass,available,58.16,58.16,med
 9344b5e2-8989-4dab-afcc-5f33d95c4de9,exalt.glass,available,72.99,72.99,high,low,5,namesilo,,,
 4ce27cf2-8d18-4401-98df-81f108736dbd,promotional.glass,available,72.99,72.99,high,low,11,namesilo,,,29/09/2026 14:37
 6d5bb7c9-3b19-479e-816f-dd98a8c0cf2d,lateral.glass,available,76.98,99.98,high,low,7,namecheap,,,22/08/2026 20:34
+dc59705a-6f8b-4fce-8f2a-4b9ad760c2b6,lima.glass,available,58.16,58.16,high,low,4,spaceship,,,02/10/2026 23:50
 ec675154-4f91-4741-9e8b-b56ac4c63c52,pyle.glass,available,58.16,58.16,medium,low,4,spaceship,,,29/09/2026 07:17
+e3904b18-4369-4609-87b5-850e270873a5,kovacs.glass,available,56.2,56.2,medium,low,6,cloudflare,,,02/10/2026 20:40
 e1c5a9a3-def3-4019-a00b-99eb741d5743,terminally.glass,available,72.99,72.99,medium,low,10,namesilo,,,16/09/2026 08:25
 9f703518-2a74-4140-ae1a-e3489b8ca22a,cigar.glass,available,56.2,56.2,high,low,5,cloudflare,,,28/09/2026 01:40
 0b01a69e-d20c-43e8-938a-88e643dc49a4,squid.glass,available,72.99,72.99,high,low,5,namesilo,,,29/09/2026 06:11
@@ -935,67 +999,3 @@ b5654935-9631-4a66-a625-20d06c8219ab,azactam.glass,available,76.98,99.98,medium,
 cc4b47af-9fb3-4633-87e3-c8f732dcf7c2,sensorial.glass,available,72.99,72.99,medium,low,9,namesilo,,,10/09/2026 03:46
 205fc2e1-c1f6-473d-a29d-984236f7ee37,emblems.glass,available,76.98,99.98,medium,low,7,namecheap,,,28/09/2026 18:24
 d38c55e5-17df-46f8-b98d-b78efe1b3e61,connection.glass,available,76.98,99.98,high,low,10,namecheap,,,01/10/2026 02:25
-241f2fb5-39ae-42fb-a4d7-0a8bde04ddcc,projected.glass,available,72.99,72.99,high,low,9,namesilo,,,22/08/2026 14:46
-edc19368-a22d-4913-8ff3-7099f3afd281,truelove.glass,available,72.99,72.99,medium,low,8,namesilo,,,10/09/2026 19:36
-0ba3b4db-a325-42d0-a6b3-ae19bef513e4,townsville.glass,available,72.99,72.99,medium,low,10,namesilo,,,30/09/2026 22:10
-925a2c54-8549-42c1-a0b6-0ca8012e4459,mormon.glass,available,72.99,72.99,high,low,6,namesilo,,,25/08/2026 06:33
-e20c9679-ea52-403d-b55e-3037163fb5f3,forester.glass,available,76.98,99.98,medium,low,8,namecheap,,,20/09/2026 00:50
-d286b1a8-d023-4b48-b28f-fe2231c53448,yue.glass,available,58.16,58.16,high,low,3,spaceship,,,29/09/2026 18:11
-76c39338-678a-4306-a8c5-763b26169396,conclusions.glass,available,72.99,72.99,medium,low,11,namesilo,,,28/09/2026 08:35
-83b6b1c9-87ea-49f2-8775-fdcb2ab7e360,rot.glass,available,58.16,58.16,high,low,3,spaceship,,,28/09/2026 05:21
-7c57d856-0c09-4123-b43f-b3f12febdc35,surprisingly.glass,available,56.2,56.2,high,low,12,cloudflare,,,01/10/2026 23:15
-7fe1ce94-b478-46a1-a642-6012dbe21647,xlv.glass,available,72.99,72.99,medium,low,3,namesilo,,,
-3c6f2dfe-8561-4732-bbe0-a61c62237378,subject.glass,available,72.99,72.99,high,low,7,namesilo,,,03/09/2026 13:38
-6689bcc1-f8a2-4695-bd6c-37ab80bc0c4c,appear.glass,available,72.99,72.99,high,low,6,namesilo,,,30/09/2026 15:08
-eb1d06fe-e635-4111-b846-a0a9ad1ae7da,untried.glass,available,76.98,99.98,medium,low,7,namecheap,,,12/09/2026 21:15
-27dec279-1824-4115-92d7-f1dfd91a58df,abettal.glass,available,76.98,99.98,medium,low,7,namecheap,,,16/09/2026 15:18
-4321ef65-5ab5-404c-bb43-995cfd1d3253,altai.glass,available,58.16,58.16,high,low,5,spaceship,,,30/09/2026 05:15
-b9937c00-c2ed-4c10-a7fd-160252b0360e,medic.glass,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 19:38
-606511b0-4902-42a5-8cd6-0e8145059a0a,grump.glass,available,72.99,72.99,medium,low,5,namesilo,,,13/08/2026 04:58
-60abffb5-58fe-4803-90e6-afc665098ed3,rockers.glass,available,72.99,72.99,high,low,7,namesilo,,,23/09/2026 15:34
-0f6e7d88-309d-4421-819e-74317a3ab34a,countrymen.glass,available,72.99,72.99,medium,low,10,namesilo,,,01/10/2026 16:35
-a137de4d-d555-4d1f-a1b1-7d5eaec92cc8,beardless.glass,available,72.99,72.99,medium,low,9,namesilo,,,09/08/2026 04:43
-8b79a789-4faa-4bc9-8531-13a72e0e21b3,tingle.glass,available,72.99,72.99,medium,low,6,namesilo,,,11/09/2026 16:11
-957deb34-cd0b-4f79-9646-c56476c17f9d,stocky.glass,available,72.99,72.99,high,low,6,namesilo,,,21/08/2026 05:33
-1bcae5f5-c527-4a37-867a-e6b5bb6ed8d8,overlooking.glass,available,58.16,58.16,medium,low,11,spaceship,,,30/09/2026 00:35
-34f88f32-d8fd-4701-816b-fe49b0833020,sported.glass,available,72.99,72.99,medium,low,7,namesilo,,,20/09/2026 16:50
-741a0e53-1eab-4e82-b4e2-4f2d16bd3110,echoing.glass,available,72.99,72.99,high,low,7,namesilo,,,30/09/2026 03:52
-59e6f7f5-c04f-46d9-a01d-43e7e388b6f3,apercu.glass,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 16:30
-28e5cd78-46c7-4cd0-9ee9-75a7d2929689,tractive.glass,available,72.99,72.99,medium,low,8,namesilo,,,11/09/2026 18:40
-09c04743-3073-444c-a035-e2b975d7ca66,arizona.glass,available,72.99,72.99,high,low,7,namesilo,,,20/09/2026 06:05
-2c0014b3-6aa4-4c4b-ac52-c303acabe8d3,lyme.glass,available,58.19,58.19,medium,low,4,porkbun,,,28/09/2026 21:33
-348a3012-a59c-4752-a408-7ff843813dfc,pursuit.glass,available,72.99,72.99,high,low,7,namesilo,,,21/09/2026 09:41
-9f279d41-776d-44d8-9274-9d9baca7c87d,faggot.glass,available,72.99,72.99,medium,low,6,namesilo,,,09/09/2026 08:02
-29fd90ea-bb6d-49bd-b526-dc26e9ce6aa5,hargreaves.glass,available,58.16,58.16,medium,low,10,spaceship,,,01/10/2026 19:56
-a9e5521c-d74d-43c6-a963-ca5e0c79f324,sinner.glass,available,58.16,58.16,medium,low,6,spaceship,,,29/09/2026 18:50
-0a615b11-8b9b-42a6-96f6-d59e2ede1f60,ardisia.glass,available,72.99,72.99,medium,low,7,namesilo,,,20/09/2026 03:10
-b60ed91e-bc60-4908-b89c-1350794026b8,leeds.glass,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 13:17
-18b2cad5-e16d-4f85-b21f-f6a5d09f234d,reduced.glass,available,72.99,72.99,medium,low,7,namesilo,,,13/08/2026 22:10
-907f7b2e-f7e9-4105-868a-1cb05b3faf89,pons.glass,available,72.99,72.99,high,low,4,namesilo,,,18/09/2026 07:24
-448ceddf-98a8-4671-8cc9-2c6ecd93382e,wha.glass,available,58.16,58.16,medium,low,3,spaceship,,,29/09/2026 14:45
-2e196828-2a55-43b3-97d7-3fb63b97868a,edinburgh.glass,available,72.99,72.99,high,low,9,namesilo,,,29/09/2026 12:09
-f528eb2a-4c72-49a2-82e6-265de0f0805b,prostitutes.glass,available,58.16,58.16,low,low,11,spaceship,,,28/09/2026 23:58
-18627fcf-b5dd-4d19-ad9a-bf2ecef61193,amore.glass,available,72.99,72.99,high,low,5,namesilo,,,02/10/2026 02:14
-daa323c0-5fa3-45d3-acd6-0add51a9e297,ungentle.glass,available,72.99,72.99,medium,low,8,namesilo,,,12/09/2026 11:11
-393cf513-2f9f-401c-84d0-02405d06eaaa,dedicate.glass,available,58.16,58.16,high,low,8,spaceship,,,30/09/2026 18:29
-6288c7b5-aeec-4f5c-aaf5-a5b05b288b34,checklist.glass,available,72.99,72.99,high,low,9,namesilo,,,29/09/2026 08:35
-560dddbb-b0a1-46a8-b0f0-c15cfe288e56,recital.glass,available,58.16,58.16,high,low,7,spaceship,,,29/09/2026 02:00
-c1ccf279-7c03-4443-a35b-665ad14ec8c0,overactive.glass,available,72.99,72.99,medium,low,10,namesilo,,,21/08/2026 16:42
-13a52cff-94b9-406b-b699-14f20861ab87,optimized.glass,available,72.99,72.99,high,low,9,namesilo,,,27/09/2026 22:29
-ab272099-0e99-4f0c-b2a3-51d829e03a1b,brisk.glass,available,72.99,72.99,high,low,5,namesilo,,,11/08/2026 00:32
-0946a041-2da0-4afa-a414-f1493a299cd7,frustrating.glass,available,58.16,58.16,medium,low,11,spaceship,,,29/09/2026 14:46
-c5d9ba7c-c2d5-42e6-b3fa-b28f81e62f22,unimagined.glass,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 08:26
-f3cba399-34ad-46e3-b968-c5d2443ba4d0,relate.glass,available,72.99,72.99,high,low,6,namesilo,,,07/08/2026 07:03
-5ca28b31-c51c-4189-af72-3a7d77210563,write.glass,available,58.16,58.16,high,low,5,spaceship,,,30/09/2026 06:33
-0724bafc-9e0e-4e86-861b-a12f1b272ce3,sumerian.glass,available,72.99,72.99,high,low,8,namesilo,,,11/09/2026 01:33
-4d083bbe-9c8e-4ea7-a91c-d1619bdfe5a7,tearless.glass,available,76.98,99.98,medium,low,8,namecheap,,,14/08/2026 20:31
-a87e53d2-fdb7-48ff-b8dd-34f037a746c5,cooperate.glass,available,56.2,56.2,high,low,9,cloudflare,,,28/09/2026 17:32
-e8e89888-b8f2-4985-98bc-c38061967bb9,livonia.glass,available,72.99,72.99,medium,low,7,namesilo,,,30/09/2026 02:09
-08911c30-95dc-4c01-82d4-615137334f74,chore.glass,available,58.16,58.16,high,low,5,spaceship,,,29/09/2026 09:00
-f172bc70-36c5-4fce-8271-cc4c02e347bf,roily.glass,available,76.98,99.98,medium,low,5,namecheap,,,09/09/2026 18:18
-c6d533a0-a7c1-4979-99c1-d60065641a5d,number.glass,available,72.99,72.99,high,low,6,namesilo,,,25/09/2026 23:29
-91fb20dc-54d5-4b50-8d6d-d848c80a1be8,guitars.glass,available,56.2,56.2,medium,low,7,cloudflare,,,01/10/2026 17:52
-4d4792b8-fd18-461e-9edb-3cf8d6e2d0df,pulverized.glass,available,72.99,72.99,medium,low,10,namesilo,,,18/08/2026 04:41
-a3c5a6e4-1b3e-4dea-ba04-a8912d1de470,virgins.glass,available,72.99,72.99,medium,low,7,namesilo,,,01/10/2026 10:00
-d553d507-b67b-4cb1-adac-72e6cd6ee12d,foolishly.glass,available,76.98,99.98,medium,low,9,namecheap,,,14/09/2026 19:22
-23a4c7a3-5ee8-4a2d-9088-afd3e2f44977,abseil.glass,available,72.99,72.99,medium,low,6,namesilo,,,16/09/2026 17:39
